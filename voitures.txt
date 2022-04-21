@@ -1,0 +1,9 @@
+
+5 | BMW | i7ss | BLEU | 4 | 350 | NON
+
+7 | AUDI | AUDIU | RED | 5 | 150 | OUI
+
+1 | KIA | MINI | GREEN | 6 | 100 | OUI
+
+3 | DACIA | DUSTER | BLACK | 5 | 75 | NON
+
